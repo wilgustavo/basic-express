@@ -7,7 +7,7 @@ Ejemplo de utilizacion del framework Express con Node.js
 
 ```sh
 $ git clone https://github.com/wilgustavo/basic-express.git
-$ cd basic-exmpress
+$ cd basic-express
 $ npm install
 ```
 
